@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/chrome-extension/static/css/main.6eaabdee.css",
+    "main.js": "/chrome-extension/static/js/main.de4df6f7.js",
+    "static/media/image.png": "/chrome-extension/static/media/image.2210bf32eed4f44d623b.png",
+    "index.html": "/chrome-extension/index.html",
+    "main.6eaabdee.css.map": "/chrome-extension/static/css/main.6eaabdee.css.map",
+    "main.de4df6f7.js.map": "/chrome-extension/static/js/main.de4df6f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6eaabdee.css",
+    "static/js/main.de4df6f7.js"
+  ]
+}
